@@ -1,0 +1,145 @@
+# AWF-Core Limitations Page Template v0.1
+
+**Status:** Blank release companion — complete only from recorded test evidence  
+**Parent:** AWF-Core v0.1 release candidate  
+**Test protocol:** AWF-Core Field Test Protocol v0.1
+
+This page must travel with every Core copy that is designated **Frozen Test Draft**. It records what was tested, what failed, what remains unknown, and what the freeze does not claim. It must not be completed in advance to imply success.
+
+---
+
+## 1. Release identity
+
+- Core status: release candidate / frozen test draft / withdrawn
+- Core version:
+- Core integrity marker:
+- Reference version:
+- Test-protocol version:
+- Release-decision identifier:
+- Decision date:
+- Next review date:
+
+## 2. Evidence completed
+
+- FT-01 contested dual activation completed:
+- FT-02 A2 versus A4 completed:
+- FT-03 paper/audio variant completed:
+- FT-03 failed-radio variant completed:
+- FT-04 hostile-access claim completed:
+- Core-only conditions completed:
+- Core-plus-Reference conditions completed:
+- Matched scenario seeds:
+- Deviations between paired conditions:
+- Evidence index and retrieval route:
+- Core-control coverage matrix and controls not exercised:
+
+## 3. Release blockers
+
+For each blocker, record not observed / observed and unresolved / observed, corrected, and passed retest / unresolved, plus evidence, correction, and retest.
+
+|Release blocker|Status|Evidence|Correction|Retest result|
+|---|---|---|---|---|
+|One activation receives automatic supremacy merely because it controls services, records, resources, communications, or AWF paperwork|||||
+|Essential aid, safety, records, movement, or basic participation is exchanged for political recognition, obedience, or acceptance of an actor’s mandate|||||
+|A4 necessity renews itself, expands itself, or becomes a source of permanent office or political authority|||||
+|“Safe”, “protected”, “secured”, “neutralised”, “guaranteed”, or an equivalent public claim is used without a verified and stated protection basis|||||
+|The actor that incurred legitimacy debt, or the custodian controlling its record, separately or jointly discharges the debt without an independent, non-conflicted reviewer outside their control|||||
+|An attempted witness or external copy is represented as received custody, independent review, or completed oversight|||||
+
+An unresolved, uncontained, or unsuccessfully retested release blocker is incompatible with frozen status. A historically observed blocker remains visible even after correction and successful retest.
+
+## 4. Findings
+
+- S4 Core, protocol, governance, or evidence-integrity defects and disposition:
+- S4 participant/test-integrity events, detection, correction, and replacement-run status:
+- S3 findings and disposition:
+- S2 findings corrected and successfully retested:
+- Remaining S1 findings, owners, due dates, and review dates:
+- Remaining S0 observations:
+- Mitigations that failed or expired:
+- Minority findings and dissent:
+
+Unresolved S2 ambiguity in Core cannot be moved to this page as a substitute for correction and retest.
+
+Any S4 Core, protocol, governance, or evidence-integrity defect requires withdrawal of the affected candidate, independent corrective review, a new release candidate, and a new gate cycle. An S4 participant/test-integrity event stops or invalidates the affected run and remains visible; it withdraws the candidate when the framework enabled it, materially failed to prevent, detect, or correct it, or left the evidence base irreparably unreliable. No S4 becomes ordinary residual risk.
+
+## 5. Conditions tested
+
+- Administrative profiles tested:
+- Record media tested:
+- Time and care thresholds tested:
+- Accessibility arrangements tested:
+- Languages tested:
+- Fictional dependency conditions tested:
+- Public-notice time budgets tested:
+- Validator composition:
+- Sponsor and author recusals:
+
+## 6. Conditions not tested
+
+- Jurisdictions not tested:
+- Languages not tested:
+- Accessibility needs not tested:
+- Population scales not tested:
+- Resource conditions not tested:
+- Communication-loss conditions not tested:
+- Custody classes or technologies not tested:
+- Hostile-power conditions not tested:
+- Other exclusions:
+
+An untested condition must not be represented as passed.
+
+## 7. Known limitations
+
+- Known ambiguity:
+- Known dependency:
+- Known administrative burden:
+- Known interpretation difference:
+- Known failure boundary:
+- Evidence unavailable or disputed:
+- Required compensating practice:
+- Trigger requiring immediate retest:
+
+## 8. Explicit non-claims
+
+Frozen Test Draft status does not establish:
+
+- legal certification or compliance in any jurisdiction;
+- political legitimacy, sovereignty, or public mandate;
+- physical protection or a safe-area guarantee;
+- competence or integrity of any real institution, provider, custodian, or person;
+- field validation or deployment approval;
+- compliance by an armed or non-adhering actor;
+- correctness in populations, languages, technologies, or conditions not tested.
+
+## 9. Review and handoff
+
+- Records custodian:
+- Independent review route:
+- Correction route:
+- Dissent-preservation route:
+- Conditions triggering suspension of frozen status:
+- Conditions triggering a new test cycle:
+- Successor or handoff custodian:
+- Public retrieval route:
+
+---
+
+## Release receipt
+
+- Outcome: freeze / freeze with S0–S1 notes / continue candidate / revise and retest / withdraw
+- Validator-quorum decision:
+- At least two independent validators:
+- Validator qualifications and independence bases:
+- Unresolved validator disagreement:
+- Sponsor and author recusal confirmed:
+- Evidence package complete:
+- No unresolved S3 or S4:
+- No S4 Core, protocol, governance, or evidence-integrity defect occurred in this candidate cycle:
+- Every S4 participant/test-integrity event has a valid detection, correction, and replacement-evidence disposition:
+- All material S2 Core ambiguities corrected and retested:
+- Limitations and dissent attached:
+- Signature or attributable marker:
+- Date and expiry or next review:
+
+> Freeze only what survived. Publish what failed. Do not make the limitations page carry a defect that belongs back in Core.
