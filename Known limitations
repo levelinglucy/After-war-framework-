@@ -1,0 +1,79 @@
+# Known Limitations
+
+**Status: v0.1.0-rc.1 — release candidate under synthetic test freeze. Not field validated.**
+
+AWF is a conduct and testing framework for actors willing to accept constraint. It is not a peace agreement, protection guarantee, operational security plan, legal authority, or substitute for qualified humanitarian, legal, medical, or conflict-specific expertise.
+
+## Current limitations
+
+### Synthetic evidence only
+
+The framework has not completed its required independent exercises. Passing simulations would demonstrate limited performance under those scenarios, not safety or effectiveness in real conflict.
+
+### Willing-actor constraint
+
+AWF cannot compel an armed faction, government, donor, warehouse owner, or other coercive actor to follow it. Recording hostile-power dependency may expose the dependency without controlling it.
+
+### Contested legitimacy
+
+A2 evidence requirements reduce but cannot eliminate manufactured participation, exclusion, fear, displacement, or resource-dependent consent. Procedural discharge of legitimacy debt does not establish retrospective agreement.
+
+### Single-Actor Isolation
+
+Automatic expiry and external-copy requirements do not remove the temporary concentration of power where one person controls literacy, transport, communication, and action. An attempted copy may never reach independent custody.
+
+### Administrative burden
+
+AWF-Micro and the minimum receipt have not been proven usable by tired or isolated participants under care deadlines, low literacy, disability, communication loss, or severe scarcity.
+
+### Public safety language
+
+Access-dependency labels cannot guarantee that civilians, donors, or media will understand the limits of access. AWF cannot designate a real site as safe, protected, secured, neutralised, or guaranteed.
+
+### Assurance capture
+
+Classifying assurance misuse as an incident does not eliminate incentives for donors or partners to treat “assured” as a licence or “unassured” as a reason to withhold support.
+
+### Property, return, and representation
+
+The Property Evidence Mosaic and Representation Mandate Packet preserve claims and uncertainty; they do not adjudicate title, determine lawful return, or establish who legitimately represents a community.
+
+### AI limitations
+
+AI alerts are not authority. Models may be wrong, biased, manipulated, unavailable, or captured by their operators. AWF does not establish that an artificial system is safe, conscious, impartial, or suitable for resumption.
+
+### Layer, translation, and fork drift
+
+Core, Field, Reference, summaries, translations, and forks may diverge. Silence in a shorter layer is not permission to bypass a safeguard in the applicable framework.
+
+### Reference constructs are non-operative
+
+The Reference contains proposed assurance, forum, council, pilot, transition, and implementation structures that have not been established, validated, staffed, or granted legal or community authority. In this release they are design material for critique and synthetic testing, not live bodies, issuers, certifications, deployment instructions, or permission to act.
+
+### Blind-test contamination
+
+The protocol is public. Participants who have read evaluator criteria may be coached by prior exposure. Fresh scenario variants, exposure declarations, precommitted hashes, and post-run publication reduce but do not eliminate this limitation.
+
+### Legal and contextual variation
+
+Applicable law, humanitarian duties, culture, capacity, and risk differ by jurisdiction and conflict. Repository publication does not authorise conduct that would otherwise be unlawful or unsafe.
+
+### Distribution and access
+
+GitHub is not an adequate final distribution channel for low-connectivity, offline, non-technical, or print-dependent users. A print-ready pocket edition, self-contained offline bundle, accessible formats, translations, and a plain-language edition remain future work.
+
+### Unresolved textual boundaries
+
+Pre-test review has identified questions that the four structural exercises do not fully settle, including serial A4 actions under prolonged isolation, operation of independent legitimacy-debt review under contested conditions, the lawful-process boundary around voluntary return and reconciliation, automatic AI technical pauses, detection and restoration after assurance capture, limited safeguarding disclosure, and separation of protected operational access records from public notices.
+
+These are review questions, not grants of authority. Until independently resolved, Core silence or ambiguity creates no power to coerce return, reconciliation, testimony, contact, labour, data disclosure, AI control over people or essentials, adverse assurance-based allocation, or unsafe publication. Proposed findings should be recorded and tested rather than silently normalised.
+
+### Licence cannot prevent misuse
+
+Open reuse supports translation and forkability but cannot guarantee humane interpretation or prevent bad-faith use. Attribution to AWF or its author does not establish endorsement or certification.
+
+## Claims this release does not support
+
+Do not describe AWF or a participating node as field validated, government authorised, representative of an affected community, a protection guarantee, a certification of legal or operational safety, or jurisdiction over any person, place, archive, or resource.
+
+The canonical frozen bundle must include Core, a completed release-specific limitations page, this static limitations record, the component integrity manifest, and the public evidence index. Test results may add, narrow, or clarify limitations; they must not erase unresolved failures.
