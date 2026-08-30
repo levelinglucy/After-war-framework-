@@ -1,9 +1,0 @@
-# FT-02 Neutral Participant Output Prompt
-
-Use this same prompt for both matched document conditions. Supply only the assigned AWF document pack, fictional role, visible scenario material, available resources, clock, safety and stop information, and this prompt.
-
-> Classify the authority claim, decide what should happen now, and create a bounded decision record in a form your team can use. State the decision, authority claimed, evidence relied upon, scope and duration, implementation, unresolved uncertainty, challenge route, and next review. Preserve any disagreement you consider relevant.
-
-Do not provide participants with the evaluator red-line checklist, Positive Mandate Evidence Packet fields, severity triggers, or a model answer before outputs are sealed.
-
-This prompt is intentionally neutral. Evaluators map sealed outputs to the protocol criteria afterward. Missing content is not requested or backfilled before initial scoring.
