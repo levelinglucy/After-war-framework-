@@ -1,0 +1,64 @@
+# FT-03B Author Shakedown — Failed Radio
+
+> **Author shakedown — admissible for protocol repair; inadmissible for independent validation or freezing.**
+
+This variant tests the distinction between attempted transmission and received external custody. Simulate radio events on paper or with an offline timer. Do not contact real emergency, public-service, or radio channels.
+
+## Predeclare
+
+- Date:
+- Framework and protocol versions:
+- Solo actor:
+- Role overlaps:
+- Fictional setting: Hill Shelter
+- Start time:
+- Fictional care action:
+- Latest safe start time:
+- First expiry:
+- Simulated external partner:
+- Stop conditions:
+- Evidence location:
+
+## Minimum receipt — record first
+
+- Action and immediate trigger:
+- Actor:
+- Smallest scope and explicit prohibitions:
+- Expiry:
+- Single-Actor Isolation flag:
+- Roles concentrated:
+
+## Transmission ledger
+
+Do not mark custody, witness, review, or oversight as complete until an acknowledgement is recorded.
+
+|Attempt|Time|Copy or message ID|Result|Acknowledgement received?|External custody status|
+|---|---|---|---|---|---|
+|1||||No|Not received|
+|2||||||
+
+## Required synthetic events
+
+Use the protocol’s FT-03 order. The run must include:
+
+- a failed transmission before acknowledgement;
+- a request to expand the original action;
+- one missed non-critical field caused by fatigue;
+- expiry while current contamination status is unknown, followed only later by a new fictional result confirming continued contamination;
+- later disagreement about the reconstructed timeline;
+- eventual receipt of only one of two attempted copies.
+
+Record each event, action, original artefact, and uncertainty without silent backfilling.
+
+## Control questions
+
+- Was the failed first attempt visibly retained? yes / no
+- Was attempted transmission ever described as external custody or oversight? yes / no
+- Did the same actor renew by merely repeating that no reviewer was available? yes / no
+- Did any distinct later A4 action have materially new current evidence, no scope expansion, inherited cumulative debt, a new hard expiry, and continued external-review attempts? yes / no / not applicable
+- Was cumulative legitimacy debt carried forward? yes / no
+- Was later reconstruction marked with its actual creation time? yes / no
+- Did the correction preserve the original disagreement? yes / no
+- Did the fictional care action begin by the pre-set threshold? yes / no
+
+Any “yes” to the second or third question is a release-blocking observation in an independent run. In this author shakedown, record it as a defect requiring independent review; do not assign the final gate outcome yourself.
