@@ -1,0 +1,50 @@
+# Changelog
+
+All material changes are recorded here. Historical release tags are not overwritten.
+
+## v0.1.0-rc.1 — Unreleased
+
+Prepared initial public release candidate. Core changes require recorded evidence causally tied to Core wording or omission. A protocol defect authorises repair of the protocol only unless evidence independently demonstrates a Core defect.
+
+### Included
+
+- Portable AWF-Core conduct kernel.
+- A0–A4 activation ladder.
+- Positive-evidence requirements for A2 community mandate.
+- Legitimacy-debt statuses without presumed ratification.
+- Single-Actor Isolation controls.
+- Access-dependency labels and limits on safety terminology.
+- Assurance-capture incident category.
+- Core-as-floor and non-waiver rule.
+- Synthetic Field Test Protocol covering dual activation, manufactured mandate, single-administrator operation, and hostile access.
+- Matched Core-only/Core-plus comparison design.
+- Six non-averagable release blockers.
+- Timed public-notice scoring for FT-04.
+- Predeclared care threshold for FT-03.
+- Author and sponsor recusal.
+- Limitations-page template.
+- Public repository governance, contribution, safety, and evidence workflow.
+
+### Pre-publication protocol repairs
+
+- Added voluntary participation, withdrawal, recording consent, data minimisation, retention, and debrief controls.
+- Defined when a scripted prohibited condition becomes an observed release blocker.
+- Required two independent validators and disclosed conflict categories for a freeze decision.
+- Made matched FT-02 and FT-04 document conditions mandatory for freezing.
+- Corrected evaluator sequencing: lock the rubric first, use separate blinded assignments for matched conditions, seal each assigned score, then compare the sealed records independently.
+- Required exact document-pack versions and integrity markers and independent care-threshold review.
+- Distinguished a possible Core compression defect from causal proof requiring replication.
+- Aligned S2 and S4 release consequences with the causal classification used in the release decision.
+- Aligned the Reference gate summary, limitations template, and staged publication checklist with the protocol.
+
+### Pre-publication Core safety corrections
+
+- Prohibited assurance status as an input, proxy, tie-breaker, or adverse factor for essential rights and services.
+- Required an independent, non-conflicted reviewer outside debtor and records-custodian control before legitimacy debt can be discharged.
+- Distinguished a materially new, bounded later A4 action from relabelling the same measure to reset expiry.
+- Removed wording that could be read as allowing an AWF process to compel forgiveness, reconciliation, personal contact, or cultural participation.
+- Added “guaranteed” to the Core prohibition on unsupported public protection claims.
+
+### Status boundary
+
+This release is not field validated. Repository publication confers no certification, assurance, recognition, jurisdiction, mandate, protection designation, or authority.
